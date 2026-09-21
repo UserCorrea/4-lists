@@ -1,3 +1,14 @@
 html
 {background-color: rgb(243, 224, 200);}
 
+
+
+.navagate {list-style-type: none;}
+
+.square-list { 
+    list-style-type:square
+
+}
+.letter-list{
+list-style-type: lower-alpha;
+}
