@@ -3,7 +3,8 @@ html
 
 
 
-.navagate {list-style-type: none;}
+.navagate {list-style-type: none; background-color: rgb(255, 251, 245);
+padding: 30px; padding-bottom: 2px; padding-top: 2px; margin-bottom: 50px;}
 
 .square-list { 
     list-style-type:square
